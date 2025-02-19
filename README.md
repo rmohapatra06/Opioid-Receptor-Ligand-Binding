@@ -82,3 +82,7 @@ This script trains regression models to predict pIC50 values.
   - **Incorporate deep learning models** (e.g., Graph Neural Networks) for enhanced feature extraction.
   - **Expand hit exploration** using more iterations and alternative docking software.
   - **Integrate experimental validation** to confirm computational predictions.
+
+  Acknowledgement: Thank you to Dr. Assante for guidance during this project
+
+  
